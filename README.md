@@ -1,2 +1,2 @@
-# Leaning the basics of GraphQL with TypeScript
-## https://www.youtube.com/watch?v=DfZVi1DwpsM&ab_channel=CodingTech
+# Learning the basics of GraphQL
+## https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y
